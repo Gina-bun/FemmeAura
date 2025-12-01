@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# 🌷 FemmeAura Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the official docs for the FemmeAura VS Code theme.
 
-## Commands
+## What is FemmeAura?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+FemmeAura is an aesthetic VS Code color theme designed for pink and purple lovers.
 
-## Project layout
+##Installation
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+1. Open VS Code
+2. Go to Extensions
+3. Search for **FemmeAura**
+4. Click _install_
+
+## Screenshots

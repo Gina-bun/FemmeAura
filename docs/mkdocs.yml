@@ -7,9 +7,10 @@ theme:
     accent: pink
 nav:
   - Home: index.md
+  - Contributing: contributing.md
   # - Installation: INSTALLATION.md
   # - Usage: USAGE.md
-  # - Contributing: CONTRIBUTING.md
+
 extra:
   social:
     - icon: fontawesome/brands/github

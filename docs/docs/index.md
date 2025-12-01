@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="FemmeAura Logo.png" alt="FemmeAura logo" width="150"/>
+</p>
+
 # 🌷 FemmeAura Documentation
 
 Welcome to the official docs for the FemmeAura VS Code theme.

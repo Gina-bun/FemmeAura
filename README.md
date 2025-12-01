@@ -1,8 +1,12 @@
 # 🌸FemmeAura README
 
-# 🌷FemmeAura - A Girly and Aestheic VS Code Theme
+<p align="center">
+    <img src="assets/FemmeAura Logo.png" alt="FemmeAura logo" width="150"/>
+</p>
 
-A beautifully soft, card captor sakura theme designed for the girls.
+<h1 align="center">FemmeAura</h1>
+
+<p align="center">A Girly and Aestheic VS Code Theme</p>
 
 ## ✨ Preview
 

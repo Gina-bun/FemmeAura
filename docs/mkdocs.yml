@@ -1,0 +1,16 @@
+site_name: FemmeAura Docs
+site_url: https://your-github-username.github.io/FemmeAura/
+theme:
+  name: material
+  palette:
+    primary: purple
+    accent: pink
+nav:
+  - Home: index.md
+  # - Installation: INSTALLATION.md
+  # - Usage: USAGE.md
+  # - Contributing: CONTRIBUTING.md
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/your-github-username/FemmeAura

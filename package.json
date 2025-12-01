@@ -1,0 +1,21 @@
+{
+  "name": "femmeaura",
+  "displayName": "FemmeAura",
+  "description": "A color theme for the girlies!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "FemmeAura",
+        "uiTheme": "hc-black",
+        "path": "./themes/FemmeAura-color-theme.json"
+      }
+    ]
+  }
+}

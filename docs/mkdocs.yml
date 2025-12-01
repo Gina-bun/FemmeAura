@@ -4,8 +4,8 @@ theme:
   name: material
   logo: FemmeAura Logo.png
   palette:
-    primary: purple
-    accent: pink
+    primary: pink
+    accent: yellow
 nav:
   - Home: index.md
   - Contributing: contributing.md

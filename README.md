@@ -10,8 +10,7 @@
 
 ## ✨ Preview
 
-![Screenshot 1](./screenshots/preview1.png)
-![Screenshot 2](./screenshots/preview2.png)
+![FemmeAura Theme Preview](docs/docs/screenshot-extension.png)
 
 ## 💖 Features
 

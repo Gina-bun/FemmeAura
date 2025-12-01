@@ -17,4 +17,6 @@ FemmeAura is an aesthetic VS Code color theme designed for pink and purple lover
 3. Search for **FemmeAura**
 4. Click _install_
 
-## Screenshots
+## Theme Preview
+
+![FemmeAura Theme Screenshot](./screenshot-extension.png)

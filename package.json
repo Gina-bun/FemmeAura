@@ -3,6 +3,7 @@
   "displayName": "FemmeAura",
   "description": "A color theme for the girlies!",
   "version": "0.1.0",
+  "icon": "images/icon.png",
   "publisher": "starbunnie",
   "repository": {
     "type": "git",

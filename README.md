@@ -1,21 +1,22 @@
-# 🌸FemmeAura README
+
 
 <p align="center">
     <img src="assets/FemmeAura Logo.png" alt="FemmeAura logo" width="150"/>
 </p>
 
-<h1 align="center">FemmeAura</h1>
+<h1 align="center">🌸FemmeAura🌸</h1>
 
-<p align="center">A Girly and Aestheic VS Code Theme</p>
+<p align="center">Pink-Purple Aestheic VS Code Theme</p>
+<hr color="pink">
 
 ## ✨ Preview
 
-![FemmeAura Theme Preview](docs/docs/screenshot-extension.png)
+![FemmeAura Theme Preview](./docs/docs//screenshot-extension.png)
 
 ## 💖 Features
 
-- cute color palette (pink, yellow, purple, blue)
-- Easy on the yes for long coding sessions
+- dark-themed
+- Easy on the eyes for long coding sessions
 - Beautiful syntax highlighting
 - High contrast for readability
 
@@ -33,6 +34,6 @@ MIT License - free to use, modify, and share
 
 ## 🌼 Credits
 
-Designed with love by Gina (Gina-bun) 💕
+Made with love by Gina💕
 
 **Enjoy!**

@@ -13,10 +13,16 @@
     "vscode": "^1.106.1"
   },
   "categories": [
+    "Themes"
+  ],
+  "keywords" : [
+    "color theme",
+    "theme",
+    "dark theme",
     "pink",
     "purple",
     "femme",
-    "femininie",
+    "feminine",
     "girly",
     "femmeaura",
     "starbunnie"

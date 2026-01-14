@@ -3,7 +3,7 @@
   "displayName": "FemmeAura",
   "description": "Pink and Purple dark color theme extension",
   "version": "0.1.0",
-  "icon": "./assets/logo.png",
+  "icon": "assets/logo.png",
   "publisher": "starbunnie",
   "repository": {
     "type": "git",

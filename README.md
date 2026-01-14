@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <img src="assets/FemmeAura Logo.png" alt="FemmeAura logo" width="150"/>
+    <img src="assets/logo.png" alt="FemmeAura logo" width="150"/>
 </p>
 
 <h1 align="center">🌸FemmeAura🌸</h1>

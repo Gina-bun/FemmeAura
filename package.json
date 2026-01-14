@@ -1,9 +1,9 @@
 {
   "name": "femmeaura",
   "displayName": "FemmeAura",
-  "description": "A color theme for the girlies!",
+  "description": "Pink and Purple dark color theme extension",
   "version": "0.1.0",
-  "icon": "images/icon.png",
+  "icon": "./assets/logo.png",
   "publisher": "starbunnie",
   "repository": {
     "type": "git",
@@ -13,7 +13,15 @@
     "vscode": "^1.106.1"
   },
   "categories": [
-    "Themes"
+    "theme",
+    "dark theme",
+    "pink",
+    "purple",
+    "femme",
+    "femininie",
+    "girly",
+    "femmeaura",
+    "starbunnie"
   ],
   "contributes": {
     "themes": [
